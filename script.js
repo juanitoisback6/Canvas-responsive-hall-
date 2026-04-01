@@ -39,11 +39,6 @@ function draw (){
   ctx.beginPath();
   ctx.moveTo(0, 0);
   
-//   ctx.lineTo(window.innerWidth, window.innerHeight);
-//     ctx.moveTo(window.innerWidth, 0);
-  
-//   ctx.lineTo(0, window.innerHeight);
-//   ctx.closePath();
  
   ctx.strokeStyle = "lightgray";
   ctx.stroke();
